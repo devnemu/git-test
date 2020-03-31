@@ -1,0 +1,24 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "prueba de git y node",
+  "main": "inicio.html)",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnemu/git-test.git"
+  },
+  "author": "devnemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devnemu/git-test/issues"
+  },
+  "homepage": "https://github.com/devnemu/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
